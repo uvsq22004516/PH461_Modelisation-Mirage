@@ -58,7 +58,7 @@ menu_principal.mainloop()
 
 if type_mod == 1:
     menu_mod_discret = tk.Tk()
-    slider = tk.Scale(menu_mod_discret, orient="horizontal", from_= 0, to=10,
+    slider = tk.Scale(menu_mod_discret, orient="horizontal", from_= 1, to=10,
       resolution=1, tickinterval=2, length=350,
       label="Nombre de couches")
     slider.grid()
