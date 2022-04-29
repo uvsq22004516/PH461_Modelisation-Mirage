@@ -63,3 +63,4 @@ if type_mod == 1:
       label="Nombre de couches")
     slider.grid()
     menu_mod_discret.mainloop()
+
