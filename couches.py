@@ -92,8 +92,8 @@ slider_couches = tk.Scale(menu_mod_discret, orient="vertical", from_= 0, to=100,
         label="Nombre de couches", font=("Comic Sans MS", 8, "italic"))
 slider_couches.grid(row=0, column=0)
 
-slider_gradient = tk.Scale(menu_mod_discret, orient="vertical", from_= 0, to=5,\
-        resolution=0.1, tickinterval=1, length=height_fenetre / 2, command=get_val_gradient, cursor="heart",\
+slider_gradient = tk.Scale(menu_mod_discret, orient="vertical", from_= 0, to=0.05,\
+        resolution=0.00005, tickinterval=1, length=height_fenetre / 2, command=get_val_gradient, cursor="heart",\
         label="Valeur du gradient", font=("Comic Sans MS", 8, "italic"))
 slider_gradient.grid(row=0, column=2)
 
