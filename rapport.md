@@ -1,6 +1,6 @@
 # <u> Modélisation d'un mirage</u>
 
-<div style="text-align: right"><b> LSPH461 - Python pour la Physique </b></div>
+<div style="text-align: left"><b> LSPH461 - Python pour la Physique </b></div>
 
 <div style="text-align: right"><b> L2 DLMP </b></div>
 <div style="text-align: right"> BEAUSSANT Abéric </div> 
